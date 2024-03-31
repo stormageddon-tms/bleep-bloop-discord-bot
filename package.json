@@ -1,6 +1,6 @@
 {
   "name": "bleep-bloop-discord-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Discord Bot to play music, that's it",
   "main": "start.js",
   "scripts": {
